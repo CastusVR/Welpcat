@@ -1,1 +1,2 @@
+mkdir %appdata%\.minecraft\Welpcat\resourcepacks
 powershell.exe -Command "Start-BitsTransfer -Source http://mirror.syclonestudios.com/ChromaHills-128x-1.15-v1.zip -Destination %appdata%\.minecraft\Welpcat\resourcepacks\ChromaHills-128x-1.15-v1.zip"
